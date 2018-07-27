@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SpeechToText</string>
+    <string name="voice_matched">Voice Matched</string>
+    <string name="permission">Please grant permission for a better user experience!</string>
+</resources>
