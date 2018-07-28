@@ -8,6 +8,10 @@ import android.view.animation.DecelerateInterpolator;
 import android.widget.Scroller;
 import java.lang.reflect.Field;
 
+/**
+ * Created by Shivesh
+ */
+
 public class NonSwipeableViewPager extends ViewPager {
 
     public NonSwipeableViewPager(Context context) {

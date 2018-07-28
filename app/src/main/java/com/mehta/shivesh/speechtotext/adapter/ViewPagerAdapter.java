@@ -16,6 +16,10 @@ import com.mehta.shivesh.speechtotext.utils.AppUtils;
 
 import java.util.List;
 
+/**
+ * Created by Shivesh
+ */
+
 public class ViewPagerAdapter extends PagerAdapter {
 
     private List<GetSpeechEntity> responseValues;

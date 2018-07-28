@@ -13,6 +13,10 @@ import dagger.android.AndroidInjector;
 import dagger.android.DispatchingAndroidInjector;
 import dagger.android.HasActivityInjector;
 
+/**
+ * Created by Shivesh
+ */
+
 public class SpeechToTextApp extends Application implements HasActivityInjector {
 
     @Inject

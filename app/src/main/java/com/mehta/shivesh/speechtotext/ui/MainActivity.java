@@ -40,6 +40,10 @@ import javax.inject.Inject;
 
 import dagger.android.AndroidInjection;
 
+/**
+ * Created by Shivesh
+ */
+
 public class MainActivity extends AppCompatActivity implements ViewPagerAdapter.OnClickEvent {
 
     @Inject

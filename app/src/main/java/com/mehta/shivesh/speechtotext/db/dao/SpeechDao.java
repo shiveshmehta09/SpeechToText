@@ -11,6 +11,10 @@ import com.mehta.shivesh.speechtotext.db.entity.GetSpeechEntity;
 
 import java.util.List;
 
+/**
+ * Created by Shivesh
+ */
+
 @Dao
 public interface SpeechDao {
 

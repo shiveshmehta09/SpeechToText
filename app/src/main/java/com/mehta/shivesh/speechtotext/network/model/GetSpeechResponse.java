@@ -6,6 +6,10 @@ import com.mehta.shivesh.speechtotext.db.entity.GetSpeechEntity;
 
 import java.util.List;
 
+/**
+ * Created by Shivesh
+ */
+
 public class GetSpeechResponse {
 
 

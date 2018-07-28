@@ -8,6 +8,9 @@ import android.support.annotation.NonNull;
 
 import static android.content.pm.PackageManager.PERMISSION_GRANTED;
 
+/**
+ * Created by Shivesh
+ */
 public class PermissionsUtils {
 
     /**

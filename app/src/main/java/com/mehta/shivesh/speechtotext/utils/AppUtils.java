@@ -13,6 +13,9 @@ import java.math.RoundingMode;
 import java.util.ArrayList;
 import java.util.Objects;
 
+/**
+ * Created by Shivesh
+ */
 public class AppUtils {
 
     public static boolean isNetworkAvailable() {

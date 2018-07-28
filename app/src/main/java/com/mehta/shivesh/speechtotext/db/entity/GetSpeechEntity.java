@@ -7,6 +7,10 @@ import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
 import com.mehta.shivesh.speechtotext.utils.AppConstants;
 
+/**
+ * Created by Shivesh
+ */
+
 @Entity(tableName = AppConstants.TABLE_DATA)
 public class GetSpeechEntity {
 

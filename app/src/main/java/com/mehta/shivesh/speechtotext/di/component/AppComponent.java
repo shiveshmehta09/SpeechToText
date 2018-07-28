@@ -11,6 +11,10 @@ import javax.inject.Singleton;
 import dagger.BindsInstance;
 import dagger.Component;
 
+/**
+ * Created by Shivesh
+ */
+
 @Singleton
 @Component(modules = {AppModule.class, ActivityModule.class})
 public interface AppComponent {
